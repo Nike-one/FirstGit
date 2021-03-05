@@ -10,4 +10,4 @@ n1 = int(input("enter number: "))
 for i in range(0,n1):
     print(fib(i))
 
-#output enter number: 5 --> 0 1 1 2 3
+#output enter number: n1 = 5 --> 0 1 1 2 3
